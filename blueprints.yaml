@@ -7,11 +7,11 @@ icon: plug
 author:
   name: Stan
   email: jarlofearls@gmail.com
-homepage: https://github.com/misturdust319/grav-plugin-randomizer
+homepage: https://github.com/misturdust319/randomizer
 demo: http://demo.yoursite.com
 keywords: grav, plugin, etc
-bugs: https://github.com/misturdust319/grav-plugin-randomizer/issues
-docs: https://github.com/misturdust319/grav-plugin-randomizer/blob/develop/README.md
+bugs: https://github.com/misturdust319/randomizer/issues
+docs: https://github.com/misturdust319/randomizer/blob/develop/README.md
 license: MIT
 
 dependencies:
