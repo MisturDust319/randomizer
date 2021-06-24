@@ -1,5 +1,5 @@
 enabled: true
 active: true
-route: random
+route: /random
 filters:
   category: blog
